@@ -7,7 +7,9 @@ A simple tool to get the date users join Instagram..
     ° 𝙎𝙞𝙢𝙥𝙡𝙚 𝙩𝙤𝙤𝙡, 𝙁𝙖𝙨𝙩.
     ° 𝙒𝙞𝙩𝙝𝙤𝙪𝙩 𝙡𝙤𝙜𝙞𝙣
 ```
-# TERMUX [ VIDEO ] :
+# TERMUX🔥[ VIDEO ]:
+``CLICK TO OPEN IT ON YOUTUBE``
+
 [![Alt text](https://img.youtube.com/vi/w9kR6d0YOdU/0.jpg)](https://www.youtube.com/watch?v=w9kR6d0YOdU)
 # [ INSTALLING ] :
 ```
