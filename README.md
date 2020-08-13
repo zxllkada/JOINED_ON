@@ -1,6 +1,6 @@
 # [ Instagram age checker ] 🔥
 ``Screenshot``
-![zxllkada_TOLL](zxllkada/instainfo_zxll_sc.jpg)
+![zxllkada_TOLL](Sc/Joined_date_sc.jpg)
 ```
 A simple tool to get the date users join Instagram..
 
@@ -33,4 +33,4 @@ python ghost7_joined.cpython-38.pyc
 >> ACCOUNT AGE
 ```
 # Telegram channel [updates here]
-![Telegram_channel](Telegram_channel_join_to_get_updates.png)
+![Telegram_channel](Sc/Telegram_channel_sc.jpg)
