@@ -1,4 +1,4 @@
-# Instagram age checker
+# Instagram age checker 🔥
 ``Screenshot``
 ```
 A simple tool to get the date users join Instagram..
