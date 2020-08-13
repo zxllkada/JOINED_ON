@@ -33,4 +33,4 @@ python ghost7_joined.cpython-38.pyc
 >> ACCOUNT AGE
 ```
 # Telegram channel [updates here]
-![Telegram_channel](JOINED_ON/Telegram_channel_join_to_get_updates.png)
+![Telegram_channel](zxllkada/JOINED_ON/Telegram_channel_join_to_get_updates.png)
